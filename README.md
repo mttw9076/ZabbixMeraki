@@ -11,7 +11,7 @@ Celem aplikacji jest:
 Projekt pokazuje pracę z integracjami API, obsługą JSON, logiką biznesową oraz przygotowaniem danych pod systemy monitoringu.
 
 ## 🧰 Technologie
-- **.NET 8** (dopasuj)
+- **.NET 8**
 - **C#**
 - **HttpClient / HttpClientFactory**
 - **Cisco Meraki Dashboard API**
